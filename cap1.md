@@ -88,7 +88,7 @@ Agora responda qual o tipo de dado adequado para as seguintes situações:
 * Uma letra do alfabeto
 * O endereço de um funcionário
 
-Respostas: << <a href="show('#var_tipo')">mostrar respostas</a>
+Respostas: << <a onclick="show('#var_tipo', this)">mostrar respostas</a>
 <div id="var_tipo" style="display: none">
 * Para guardar o preço de um produto precisamos de uma variável do tipo real, pois um produto pode custar R$ 10,50 (dez reais e cinquenta centatos).
 * Para guardar a quantidade de um produto temos uma pegadinha, pois depende de que tipo de produto. Imagine que o produto vendido serão carros. Nesse caso podemos utilizar o tipo inteiro, pois não venderemos meio carro. Agora imagine que o produto vendido é carne, e nesse caso, podemos vender meio quilo de carne, e nesse caso o tipo de dado deve ser real.
@@ -148,7 +148,7 @@ f) 1telefone
 g) 2telefone  
 h) Cargo  
 
-Respostas: << <a href="show('#var_nomear')">mostrar respostas</a>
+Respostas: << <a onclick="show('#var_nomear')">mostrar respostas</a>
 <div id="var_nomear" style="display: none">
 a) nome-do-cliente ou nome_do_cliente ou nomeDoCliente  
 b) salario  
@@ -234,7 +234,7 @@ j) real valor_unitario =
 k) real valor_total =  
 l) inteiro idade =  
 
-Respostas: << <a href="show('#var_atribuir')">mostrar respostas</a>
+Respostas: << <a onclick="show('#var_atribuir')">mostrar respostas</a>
 <div id="var_atribuir" style="display: none">
 a) nome = "Emília Andrade"  
 b) qtd = 10  
@@ -521,3 +521,5 @@ programa
 Uma forma de verificar o que está acontecendo com os valores das variáveis durante a execução do algoritmo é utilizando um teste de mesa. Você pode fazê-lo em uma folha de caderno, mas no nosso caso, o Portugol Studio disponibiliza uma área para isso.
 <!-- Colocar um GIF -->
 ![]()
+
+<script src="assets/js/script.js"></script>
