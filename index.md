@@ -7,9 +7,9 @@ Professor do [IFRO](https://www.ifro.edu.br) Campus Vilhena
 Algoritmos com Portugol Studio é um livro voltado para estudantes que estão iniciando no mundo da programação. Para tal, foi escrito para ser utilizado em conjunto com o [Portugol Studio](http://lite.acad.univali.br/portugol/), uma ferramenta multi-plataforma projetada para aprender programação utilizando Português estruturado.
 
 ## Capítulos
-* [Cap 1 - Escrevendo um algoritmo]()
-* [Cap 2 - Tomando decisões]()
-* [Cap 3 - Laços de repetição]()
+* [Cap 1 - Escrevendo um algoritmo](cap1.html)
+* [Cap 2 - Tomando decisões](cap2.html)
+* [Cap 3 - Laços de repetição](cap3.html)
 * [Cap 4 - Arranjos]()
 * [Cap 5 - Funções]()
 * [Cap 6 - Recursividade]()
