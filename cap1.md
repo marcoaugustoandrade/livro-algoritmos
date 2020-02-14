@@ -519,6 +519,5 @@ programa
 
 ## Teste de mesa
 Uma forma de verificar o que está acontecendo com os valores das variáveis durante a execução do algoritmo é utilizando um teste de mesa. Você pode fazê-lo em uma folha de caderno, mas no nosso caso, o Portugol Studio disponibiliza uma área para isso.
-
 <!-- Colocar um GIF -->
 ![]()
