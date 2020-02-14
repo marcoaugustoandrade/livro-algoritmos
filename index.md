@@ -1,6 +1,8 @@
 # Algoritmos com Portugol Studio
 
 [Marco Antonio Augusto de Andrade](https://marcoandra.de)
+
+
 Professor do [IFRO](https://www.ifro.edu.br) Campus Vilhena
 
 ## Sobre o livro
