@@ -248,7 +248,7 @@ Respostas: << <a onclick="show('#var_atribuir', this)">mostrar respostas</a>
 	<li>j) valor_unitario = 13.20</li>
 	<li>k) valor_total = 30.00</li>
 	<li>l) idade = 18</li>
-</div>
+</ul>
 
 
 ## Escrevendo no console
