@@ -89,7 +89,7 @@ Agora responda qual o tipo de dado adequado para as seguintes situações:
 * O endereço de um funcionário
 
 Respostas: << <a href="show('#var_tipo')">ocultar respostas</a>
-<div id="var_tipo">
+<div id="var_tipo" style="display: none">
 * Para guardar o preço de um produto precisamos de uma variável do tipo real, pois um produto pode custar R$ 10,50 (dez reais e cinquenta centatos).
 * Para guardar a quantidade de um produto temos uma pegadinha, pois depende de que tipo de produto. Imagine que o produto vendido serão carros. Nesse caso podemos utilizar o tipo inteiro, pois não venderemos meio carro. Agora imagine que o produto vendido é carne, e nesse caso, podemos vender meio quilo de carne, e nesse caso o tipo de dado deve ser real.
 * Para guardar a descrição de um produto precisamos de mais de um caracter, sendo mais adequado o tipo cadeia.
@@ -149,7 +149,7 @@ g) 2telefone
 h) Cargo
 
 Respostas: << <a href="show('#var_nomear')">ocultar respostas</a>
-<div id="var_nomear">
+<div id="var_nomear" style="display: none">
 a) nome-do-cliente ou nome_do_cliente ou nomeDoCliente
 b) salario
 c) idade
@@ -235,7 +235,7 @@ k) real valor_total =
 l) inteiro idade =
 
 Respostas: << <a href="show('#var_atribuir')">ocultar respostas</a>
-<div id="var_atribuir">
+<div id="var_atribuir" style="display: none">
 a) nome = "Emília Andrade"
 b) qtd = 10
 c) realizado = falso
