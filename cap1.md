@@ -88,7 +88,7 @@ Agora responda qual o tipo de dado adequado para as seguintes situações:
 * Uma letra do alfabeto
 * O endereço de um funcionário
 
-Respostas: << <a href="show('#var_tipo')">ocultar respostas</a>
+Respostas: << <a href="show('#var_tipo')">mostrar respostas</a>
 <div id="var_tipo" style="display: none">
 * Para guardar o preço de um produto precisamos de uma variável do tipo real, pois um produto pode custar R$ 10,50 (dez reais e cinquenta centatos).
 * Para guardar a quantidade de um produto temos uma pegadinha, pois depende de que tipo de produto. Imagine que o produto vendido serão carros. Nesse caso podemos utilizar o tipo inteiro, pois não venderemos meio carro. Agora imagine que o produto vendido é carne, e nesse caso, podemos vender meio quilo de carne, e nesse caso o tipo de dado deve ser real.
@@ -107,7 +107,7 @@ programa
 {
 	funcao inicio()
 	{
-    	// O seu código será digitado aqui		
+		// O seu código será digitado aqui		
 	}
 }
 {% endhighlight %}
@@ -131,7 +131,7 @@ programa
 		caracter sexo_do_aluno
 		inteiro idade
 		real salario
-    	logico realizado
+		logico realizado
 	}
 }
 {% endhighlight %}
@@ -139,25 +139,25 @@ programa
 Por convenção vamos nomear as variáveis iniciando com uma letra minúscula e contendo somente letras (maiúsculas ou minúsculas), números ou os caracteres _ (underline) ou - (traço). Também é importante utilizar um nome que identifique o seu conteúdo. **salario** é mais adequado para uma variável para armazenar um salário do que **slrio**, por exemplo.
 
 Qual dos nomes a seguir são corretos para nomear variáveis. Caso não seja defina um novo nome:
-a) nome do cliente
-b) Salario
-c) IDADE
-d) idade
-e) nomeDaMãe
-f) 1telefone
-g) 2telefone
-h) Cargo
+a) nome do cliente  
+b) Salario  
+c) IDADE  
+d) idade  
+e) nomeDaMãe  
+f) 1telefone  
+g) 2telefone  
+h) Cargo  
 
-Respostas: << <a href="show('#var_nomear')">ocultar respostas</a>
+Respostas: << <a href="show('#var_nomear')">mostrar respostas</a>
 <div id="var_nomear" style="display: none">
-a) nome-do-cliente ou nome_do_cliente ou nomeDoCliente
-b) salario
-c) idade
-d) Nome adequado!
-e) nomeDaMae
-f) telefone1
-g) telefone2
-h) cargo
+a) nome-do-cliente ou nome_do_cliente ou nomeDoCliente  
+b) salario  
+c) idade  
+d) Nome adequado!  
+e) nomeDaMae  
+f) telefone1  
+g) telefone2  
+h) cargo  
 </div>
 
 <div class="message-info"> Existem alguns estilos para nomeação de variáveis e funções. Com o CamelCase podemos criar nomes de variáveis com palavras compostas, onde a letra inicial de cada palavra é maiúscula, como por exemplo: SalarioBruto, SalarioLiquido e NomeDaMae. Uma forma de empregar o CamelCase em nomes de variáveis e funções é iniciar com a primeira palavra minúscula, veja: salarioBruto, salarioLiquido e nomeDaMae. Com o snake_case utilizamos o caracter underline para criar nomes de variáveis e funções com palavras compostas, ficando assim: salario_bruto, salario_liquido e nome_da_mae</div>
@@ -221,33 +221,33 @@ programa
 Veja que a variavel saldo foi declarada e já recebeu o valor 0, e a variável limite foi declarada com o valor 1.000. Enquanto a variável nome_do_cliente foi declarada mas não recebeu nenhum valor.
 
 Atribua valores as seguintes variáveis:
-a) cadeia nome = 
-b) inteiro qtd = 
-c) logico realizado =
-d) caracter sexo =
-e) real salario =
-f) cadeia cpf =
-g) inteiro cpf =
-h) real qtd =
-i) cadeia endereco =
-j) real valor_unitario =
-k) real valor_total =
-l) inteiro idade =
+a) cadeia nome =  
+b) inteiro qtd =  
+c) logico realizado =  
+d) caracter sexo =  
+e) real salario =  
+f) cadeia cpf =  
+g) inteiro cpf =  
+h) real qtd =  
+i) cadeia endereco =  
+j) real valor_unitario =  
+k) real valor_total =  
+l) inteiro idade =  
 
-Respostas: << <a href="show('#var_atribuir')">ocultar respostas</a>
+Respostas: << <a href="show('#var_atribuir')">mostrar respostas</a>
 <div id="var_atribuir" style="display: none">
-a) nome = "Emília Andrade"
-b) qtd = 10
-c) realizado = falso
-d) sexo = 'M'
-e) salario = 2450.00
-f) cpf = "450.432.456-90"
-g) cpf = 45043245690
-h) qtd = 15.4
-i) endereco = "Avenida do Contorno nº 1010"
-j) valor_unitario = 13.20
-k) valor_total = 30.00
-l) idade = 18
+a) nome = "Emília Andrade"  
+b) qtd = 10  
+c) realizado = falso  
+d) sexo = 'M'  
+e) salario = 2450.00  
+f) cpf = "450.432.456-90"  
+g) cpf = 45043245690  
+h) qtd = 15.4  
+i) endereco = "Avenida do Contorno nº 1010"  
+j) valor_unitario = 13.20  
+k) valor_total = 30.00  
+l) idade = 18  
 </div>
 
 
@@ -259,7 +259,7 @@ programa
 	funcao inicio()
 	{
 		inteiro idade
-    	idade = 12
+		idade = 12
 	}
 }
 {% endhighlight %}
@@ -276,7 +276,7 @@ programa
 	funcao inicio()
 	{
 		inteiro idade
-    idade = 12
+		idade = 12
 		escreva(idade)
 	}
 }
@@ -296,9 +296,9 @@ programa
 	funcao inicio()
 	{
 		inteiro idade
-    	idade = 12
+		idade = 12
 		escreva("Programa de cálculo")
-    	escreva("A idade do aluno é " + idade)
+		escreva("A idade do aluno é " + idade)
 	}
 }
 {% endhighlight %}
