@@ -148,7 +148,7 @@ f) 1telefone
 g) 2telefone  
 h) Cargo  
 
-Respostas: << <a onclick="show('#var_nomear')">mostrar respostas</a>
+Respostas: << <a onclick="show('#var_nomear', this)">mostrar respostas</a>
 <ul id="var_nomear" style="display: none">
 	<li>a) nome-do-cliente ou nome_do_cliente ou nomeDoCliente</li>
 	<li>b) salario</li>
@@ -234,7 +234,7 @@ j) real valor_unitario =
 k) real valor_total =  
 l) inteiro idade =  
 
-Respostas: << <a onclick="show('#var_atribuir')">mostrar respostas</a>
+Respostas: << <a onclick="show('#var_atribuir', this)">mostrar respostas</a>
 <ul id="var_atribuir" style="display: none">
 	<li>a) nome = "Emília Andrade"</li>
 	<li>b) qtd = 10</li>
