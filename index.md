@@ -32,7 +32,7 @@ Cap. 1 Cap. 2 Cap. 3 Cap. 4 Cap. 5 Cap. 6
 ANDRADE, Marco A. A. Algoritmos com Portugol Studio. 2020.  
 {% highlight bash %}
 @book{Andrade2020,
-author = {{Andrade, Marco A. A.},
+author = {{Andrade, Marco A. A.}},
 isbn = {000000000000000},
 title = {{Algoritmos com Portugol Studio}},
 year = {2020}
