@@ -89,15 +89,15 @@ Agora responda qual o tipo de dado adequado para as seguintes situações:
 * O endereço de um funcionário
 
 Respostas: << <a onclick="show('#var_tipo', this)">mostrar respostas</a>
-<div id="var_tipo" style="display: none">
-* Para guardar o preço de um produto precisamos de uma variável do tipo real, pois um produto pode custar R$ 10,50 (dez reais e cinquenta centatos).
-* Para guardar a quantidade de um produto temos uma pegadinha, pois depende de que tipo de produto. Imagine que o produto vendido serão carros. Nesse caso podemos utilizar o tipo inteiro, pois não venderemos meio carro. Agora imagine que o produto vendido é carne, e nesse caso, podemos vender meio quilo de carne, e nesse caso o tipo de dado deve ser real.
-* Para guardar a descrição de um produto precisamos de mais de um caracter, sendo mais adequado o tipo cadeia.
-* Para guardar a informação que o aluno foi aprovado ou reprovado podemos utilizar o tipo lógico, pois teremos somente 2 situações, convencionando que verdadeiro será quando ele for aprovado e falso quando ele for reprovado.
-* Para guardar as temperaturas precisamos de uma variável do tipo real, que serve para Celsius e Fahrenheit.
-* Para guardar somente uma letra do alfabeto precisamos de uma variável do tipo caracter.
-* Para guardar o endereço de um funcionário precisamos de vários caracteres, assim, o tipo que devemos utilizar é o cadeia.
-</div>
+<ul id="var_tipo" style="display: none">
+	<li> Para guardar o preço de um produto precisamos de uma variável do tipo real, pois um produto pode custar R$ 10,50 (dez reais e cinquenta centatos).</li>
+	<li> Para guardar a quantidade de um produto temos uma pegadinha, pois depende de que tipo de produto. Imagine que o produto vendido serão carros. Nesse caso podemos utilizar o tipo inteiro, pois não venderemos meio carro. Agora imagine que o produto vendido é carne, e nesse caso, podemos vender meio quilo de carne, e nesse caso o tipo de dado deve ser real.</li>
+	<li> Para guardar a descrição de um produto precisamos de mais de um caracter, sendo mais adequado o tipo cadeia.</li>
+	<li> Para guardar a informação que o aluno foi aprovado ou reprovado podemos utilizar o tipo lógico, pois teremos somente 2 situações, convencionando que verdadeiro será quando ele for aprovado e falso quando ele for reprovado.</li>
+	<li> Para guardar as temperaturas precisamos de uma variável do tipo real, que serve para Celsius e Fahrenheit.</li>
+	<li> Para guardar somente uma letra do alfabeto precisamos de uma variável do tipo caracter.</li>
+	<li> Para guardar o endereço de um funcionário precisamos de vários caracteres, assim, o tipo que devemos utilizar é o cadeia.</li>
+</ul>
 
 
 ## Estrutura básica de um algoritmo
@@ -149,16 +149,16 @@ g) 2telefone
 h) Cargo  
 
 Respostas: << <a onclick="show('#var_nomear')">mostrar respostas</a>
-<div id="var_nomear" style="display: none">
-a) nome-do-cliente ou nome_do_cliente ou nomeDoCliente  
-b) salario  
-c) idade  
-d) Nome adequado!  
-e) nomeDaMae  
-f) telefone1  
-g) telefone2  
-h) cargo  
-</div>
+<ul id="var_nomear" style="display: none">
+	<li>a) nome-do-cliente ou nome_do_cliente ou nomeDoCliente</li>
+	<li>b) salario</li>
+	<li>c) idade</li>
+	<li>d) Nome adequado!</li>
+	<li>e) nomeDaMae</li>
+	<li>f) telefone1</li>
+	<li>g) telefone2</li>
+	<li>h) cargo</li>
+</ul>
 
 <div class="message-info"> Existem alguns estilos para nomeação de variáveis e funções. Com o CamelCase podemos criar nomes de variáveis com palavras compostas, onde a letra inicial de cada palavra é maiúscula, como por exemplo: SalarioBruto, SalarioLiquido e NomeDaMae. Uma forma de empregar o CamelCase em nomes de variáveis e funções é iniciar com a primeira palavra minúscula, veja: salarioBruto, salarioLiquido e nomeDaMae. Com o snake_case utilizamos o caracter underline para criar nomes de variáveis e funções com palavras compostas, ficando assim: salario_bruto, salario_liquido e nome_da_mae</div>
 
@@ -235,19 +235,19 @@ k) real valor_total =
 l) inteiro idade =  
 
 Respostas: << <a onclick="show('#var_atribuir')">mostrar respostas</a>
-<div id="var_atribuir" style="display: none">
-a) nome = "Emília Andrade"  
-b) qtd = 10  
-c) realizado = falso  
-d) sexo = 'M'  
-e) salario = 2450.00  
-f) cpf = "450.432.456-90"  
-g) cpf = 45043245690  
-h) qtd = 15.4  
-i) endereco = "Avenida do Contorno nº 1010"  
-j) valor_unitario = 13.20  
-k) valor_total = 30.00  
-l) idade = 18  
+<ul id="var_atribuir" style="display: none">
+	<li>a) nome = "Emília Andrade"</li>
+	<li>b) qtd = 10</li>
+	<li>c) realizado = falso</li>
+	<li>d) sexo = 'M'</li>
+	<li>e) salario = 2450.00</li>
+	<li>f) cpf = "450.432.456-90"</li>
+	<li>g) cpf = 45043245690</li>
+	<li>h) qtd = 15.4</li>
+	<li>i) endereco = "Avenida do Contorno nº 1010"</li>
+	<li>j) valor_unitario = 13.20</li>
+	<li>k) valor_total = 30.00</li>
+	<li>l) idade = 18</li>
 </div>
 
 
