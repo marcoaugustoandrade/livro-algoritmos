@@ -32,7 +32,7 @@ Em um teste de mesa teríamos:
 * O valor de **i** é **0**. 0 é menor que 10. É impresso no console "Iteração: 0". O valor de i é incrementado em 1, passando a ser 1.
 * O valor de **i** é **1**. 1 é menor que 10. É impresso no console "Iteração: 1". O valor de i é incrementado em 1, passando a ser 2.
 * O valor de **i** é **2**. 2 é menor que 10. É impresso no console "Iteração: 2". O valor de i é incrementado em 1, passando a ser 3.
-* O valor de **i** é 3. 3 é menor que 10. É impresso no console "Iteração: 3". O valor de i é incrementado em 1, passando a ser 4.
+* O valor de **i** é **3**. 3 é menor que 10. É impresso no console "Iteração: 3". O valor de i é incrementado em 1, passando a ser 4.
 * O valor de **i** é **4**. 4 é menor que 10. É impresso no console "Iteração: 4". O valor de i é incrementado em 1, passando a ser 5.
 * O valor de **i** é **5**. 5 não é menor que 5. O laço acaba.
 
