@@ -16,7 +16,7 @@ Introdução a Algoritmos com Portugol Studio é um livro voltado para estudante
 
 ## Material complementar
 Lista de execícios: <span class="badge badge-info">Em breve</span>  
-[Cap. 1](cap1-exercicios.html) [Cap. 2](cap2-exercicios.html) Cap. 3 Cap. 4 Cap. 5 Cap. 6
+[Cap. 1](cap1-exercicios.html) [Cap. 2](cap2-exercicios.html) [Cap. 3](cap3-exercicios.html) Cap. 4 Cap. 5 Cap. 6
 
 Slides: <span class="badge badge-info">Em breve</span>  
 Cap. 1 Cap. 2 Cap. 3 Cap. 4 Cap. 5 Cap. 6
