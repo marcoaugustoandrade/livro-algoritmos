@@ -12,14 +12,14 @@ Se sua intenção é ser um programador não se preocupe. Se conseguir resolver 
 A primeira atividade é instalar o [Portugol Studio](http://lite.acad.univali.br/portugol/). Esse ambiente vai nos ajudar nessa jornada para escrevermos nosso primeiro algoritmo.
 
 Os subtópicos deste capítulo são os seguintes:
-* [Variáveis](#variaveis)
-* [Estrutura básica de um algoritmo](#estrutura-basica-de-um-algoritmo)
-* [Declarando uma variável](#declarando-uma-variavel)
-* [Modificando o conteúdo de uma variável](#modificando-o-conteudo-de-uma-variavel)
+* [Variáveis](#variáveis)
+* [Estrutura básica de um algoritmo](#estrutura-básica-de-um-algoritmo)
+* [Declarando uma variável](#declarando-uma-variável)
+* [Modificando o conteúdo de uma variável](#modificando-o-conteúdo-de-uma-variável)
 * [Escrevendo no console](#escrevendo-no-console)
-* [Operadores de atribuição](#operadores-de-atribuicao)
-* [Operadores aritméticos](#operadores-aritmeticos)
-* [Lendo dados do usuário](#lendo-dados-do-usuario)
+* [Operadores de atribuição](#operadores-de-atribuição)
+* [Operadores aritméticos](#operadores-aritméticos)
+* [Lendo dados do usuário](#lendo-dados-do-usuário)
 * [Constantes](#constantes)
 * [Teste de mesa](#teste-de-mesa)
 
@@ -423,6 +423,10 @@ Com as variáveis do tipo inteiro e real podemos realizar as operações aritmé
 		<td>divisão</td>
 		<td>/</td>
 	</tr>
+	<tr>
+		<td>resto da divisão</td>
+		<td>%</td>
+	</tr>	
 </table>
 
 Assim como na matemática as operações de divisão e multiplicação tem prioridade sobre as operações de somar e substrair.  
@@ -520,6 +524,6 @@ programa
 ## Teste de mesa
 Uma forma de verificar o que está acontecendo com os valores das variáveis durante a execução do algoritmo é utilizando um teste de mesa. Você pode fazê-lo em uma folha de caderno, mas no nosso caso, o Portugol Studio disponibiliza uma área para isso.
 <!-- Colocar um GIF -->
-![]()
+<!-- ![]() -->
 
 <script src="assets/js/script.js"></script>

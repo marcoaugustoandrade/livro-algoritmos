@@ -1,15 +1,15 @@
-# Algoritmos com Portugol Studio (nome provisório)
+# Introdução a Algoritmos com Portugol Studio
 
 [Marco Antonio Augusto de Andrade](https://marcoandra.de)  
 Professor do [IFRO](https://www.ifro.edu.br) Campus Vilhena
 
 ## Sobre o livro
-Algoritmos com Portugol Studio é um livro voltado para estudantes que estão iniciando no mundo da programação. Para tal, foi escrito para ser utilizado em conjunto com o [Portugol Studio](http://lite.acad.univali.br/portugol/), uma ferramenta multi-plataforma projetada para aprender programação utilizando [Português estruturado](https://pt.wikipedia.org/wiki/Portugol).
+Introdução a Algoritmos com Portugol Studio é um livro voltado para estudantes que estão iniciando no mundo da programação. Para tal, foi escrito para ser utilizado em conjunto com o [Portugol Studio](http://lite.acad.univali.br/portugol/), uma ferramenta multi-plataforma projetada para aprender programação utilizando [Português estruturado](https://pt.wikipedia.org/wiki/Portugol).
 
 ## Capítulos
 * [Cap. 1 - Escrevendo um algoritmo](cap1.html) <span class="badge badge-warning">Novo</span>
-* Cap. 2 - Tomando decisões <span class="badge badge-info">Em breve</span>
-* Cap. 3 - Laços de repetição <span class="badge badge-info">Em breve</span>
+* [Cap. 2 - Tomando decisões](cap2.html) <span class="badge badge-warning">Novo</span>
+* [Cap. 3 - Laços de repetição](cap3.html) <span class="badge badge-info">Novo</span>
 * Cap. 4 - Arranjos <span class="badge badge-info">Em breve</span>
 * Cap. 5 - Funções <span class="badge badge-info">Em breve</span>
 * Cap. 6 - Recursividade <span class="badge badge-info">Em breve</span>
@@ -29,12 +29,12 @@ Cap. 1 Cap. 2 Cap. 3 Cap. 4 Cap. 5 Cap. 6
 * O livro será publicado em versão e-book ou em papel? Provavelmente. Mas sempre manteremos aqui a última versão, com o mesmo conteúdo.
 
 ## Cite o livro
-ANDRADE, Marco A. A. Algoritmos com Portugol Studio. 2020.  
+ANDRADE, Marco A. A. Introdução a Algoritmos com Portugol Studio. 2020.  
 {% highlight bash %}
 @book{Andrade2020,
-author = {{Andrade, Marco A. A.}},
-isbn = {000000000000000},
-title = {{Algoritmos com Portugol Studio}},
-year = {2020}
+author = "Andrade, Marco A. A.",
+isbn = "000000000000000",
+title = "Introdução a Algoritmos com Portugol Studio",
+year = "2020"
 }
 {% endhighlight %}
