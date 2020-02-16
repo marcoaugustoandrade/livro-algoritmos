@@ -18,7 +18,7 @@ cadeia endereco1, endereco2, endereco3, endereco4
 Pense no quão complexo seria implementar um algoritmo para ler 30 dados de alunos. Teríamos 30 variáveis para armazenar nomes, isso sem pensarmos no código para leitura e escrita desses dados. Mais 30 variáveis para o endereço. Ou seja, 30 variáveis para cada dado.
 
 Nesses casos devemos utilizar **arranjos**, que nada mais são do que grupos de variáveis. Veja a imagem a seguir e observe que um arranjo é divido em uma determinada quantidade de "caixinhas", onde em cada caixinha dessas podemos armazenar um aluno.
-![](assets/images/vetor.png)
+![](assets/images/vetores.png)
 
 <div class="message-warning">Cada divisão do arranjo possui uma posição e um conteúdo, sendo estes de mesmo tipo.</div>
 
