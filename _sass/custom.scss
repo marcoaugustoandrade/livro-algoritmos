@@ -1,0 +1,24 @@
+.message{
+    font-size: 0.9em !important;
+    padding: 0.5em !important;
+}
+.badge{
+    padding: 0.2em !important;
+    border-radius: 0.5em !important;
+}
+.message-warning, .badge-warning{
+    background-color: rgba(231,218,94, 0.801);
+    color: black;
+}
+.message-danger, .badge-danger{
+    background-color: rgba(217,83,79, 0.801);
+    color: white;
+}
+.message-success, .badge-success{
+    background-color: rgba(92,184,92, 0.801);
+    color: white;
+}
+.message-info, .badge-info{
+    background-color: rgba(51,122,183, 0.801);
+    color: white;
+}
