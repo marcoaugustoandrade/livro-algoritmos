@@ -64,8 +64,8 @@ Tente você:
 * e) 32 - 2 * 2 >= 18 * 2 é __
 * f) 18 * 2 != 36 é __
 
-Respostas: << <a onclick="show('#ope-relacionais', this)">ocultar respostas</a>
-<ul id="ope-relacionais">
+Respostas: << <a onclick="show('#ope-relacionais', this)">mostrar respostas</a>
+<ul id="ope-relacionais" style="display:none">
     <li>a) falso</li>
     <li>b) verdadeiro</li>
     <li>c) verdadeiro</li>
@@ -245,8 +245,8 @@ Tente você agora:
 * e) (sexo == 'm') ou nao(sexo == 'M')
 * f) (realizado == falso) e nao(endereco == "Rua das Flores")
 
-Respostas: << <a onclick="show('#ope-relacionais-completo', this)">ocultar respostas</a>
-<ul id="ope-relacionais-completo">
+Respostas: << <a onclick="show('#ope-relacionais-completo', this)">mostrar respostas</a>
+<ul id="ope-relacionais-completo" style="display:none">
     <li>a) verdadeiro</li>
     <li>b) falso</li>
     <li>c) verdadeiro</li>
@@ -425,7 +425,7 @@ se (nota == 5){
 escreva("O aluno é conceito " + conceito)
 {% endhighlight %}
 
-Mas temos uma estrutura mais elegante para tratar 
+Entretant, temos uma estrutura mais elegante para tratar essas situações de escolha: o escolha caso.
 
 {% highlight portugol %}
 inteiro nota
