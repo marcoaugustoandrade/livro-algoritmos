@@ -102,7 +102,7 @@ Respostas: << <a onclick="show('#var_tipo', this)">mostrar respostas</a>
 
 ## Estrutura básica de um algoritmo
 Abra o Portugol Studio e crie um novo arquivo. Observe que o algoritmo criado já possui uma estrutura, existe uma palavra **programa** e abaixo dela é aberta uma '{' chave que é fechada no final do algoritmo. Observe também que há uma **funcao inicio()** que, da mesma forma, tem abaixo uma '{' chave que é fechada em seguida. Essas chaves representam o escopo e têm a função de limitar o que está dentro. Assim, visualmente é possível perceber que a **funcao inicio()** está dentro do **programa**.
-{% highlight portugol %}
+{% highlight portugol linenos %}
 programa
 {
 	funcao inicio()
