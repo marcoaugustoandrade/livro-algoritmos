@@ -7,16 +7,21 @@ Professor do [IFRO](https://www.ifro.edu.br) Campus Vilhena
 Introdução a Algoritmos com Portugol Studio é um livro voltado para estudantes que estão iniciando no mundo da programação. Para tal, foi escrito para ser utilizado em conjunto com o [Portugol Studio](http://lite.acad.univali.br/portugol/), uma ferramenta multi-plataforma projetada para aprender programação utilizando [Português estruturado](https://pt.wikipedia.org/wiki/Portugol).
 
 ## Capítulos
-* [Capítulo 1 - Escrevendo um algoritmo](cap1.html) <span class="badge badge-warning">Novo</span>
-* [Capítulo 2 - Tomando decisões](cap2.html) <span class="badge badge-warning">Novo</span>
-* [Capítulo 3 - Laços de repetição](cap3.html) <span class="badge badge-warning">Novo</span>
-* [Capítulo 4 - Arranjos](cap4.html) <span class="badge badge-warning">Novo</span>
-* Capítulo 5 - Funções <span class="badge badge-info">Em breve</span>
+* [Capítulo 1 - Escrevendo um algoritmo](cap1.html)
+* [Capítulo 2 - Tomando decisões](cap2.html)
+* [Capítulo 3 - Laços de repetição](cap3.html)
+* [Capítulo 4 - Arranjos](cap4.html)
+* [Capítulo 5 - Funções](cap5.html) <span class="badge badge-warning">Novo</span>
 * Capítulo 6 - Recursividade <span class="badge badge-info">Em breve</span>
 
 ## Material complementar
-Lista de execícios: <span class="badge badge-info">Em breve</span>  
-[Cap. 1](cap1-exercicios.html) [Cap. 2](cap2-exercicios.html) [Cap. 3](cap3-exercicios.html) [Cap. 4](cap4-exercicios.html) Cap. 5 Cap. 6
+Lista de execícios: 
+* [Cap. 1](cap1-exercicios.html)
+* [Cap. 2](cap2-exercicios.html)
+* [Cap. 3](cap3-exercicios.html)
+* [Cap. 4](cap4-exercicios.html)
+* [Cap. 5](cap5-exercicios.html)
+* Cap. 6 <span class="badge badge-info">Em breve</span>
 
 Slides: <span class="badge badge-info">Em breve</span>  
 Cap. 1 Cap. 2 Cap. 3 Cap. 4 Cap. 5 Cap. 6

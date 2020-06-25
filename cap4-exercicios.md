@@ -3,7 +3,7 @@
 
 2) Implemente um algoritmo que leia 10 notas e, ao final, imprima a media de notas. Salve o algoritmo como "02_media_notas.por".  
 
-3) Implemente um algoritmo que leia números e, em seguida, adicione-o a vetores para pares e vetores para ímpares, com 10 posições cada. Por fim, imprima a soma de números pares e a soma de números ímpares. Salve o algoritmo como "03_soma_pares_impares.por".  
+3) Implemente um algoritmo que leia números e, em seguida, adicione-o a vetores para pares e vetores para ímpares, com 10 posições cada. Por fim, imprima a soma de números pares e a soma de números ímpares. Salve o algoritmo como "03_soma_pares_impares.por".
 
 4) Implemente um algoritmo que leia as temperaturas de uma semana e, ao final, imprima a temperatura do dia da semana no seguinte formato: "A temperatura na segunda-feira foi de 18º", bem como, imprima a média semanal. Salve o algoritmo como "04_temperaturas".  
 
