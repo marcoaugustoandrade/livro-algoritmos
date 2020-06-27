@@ -135,3 +135,33 @@ programa
 {% endhighlight %}
 
 Qual serão os valores impressos? 100.0, 150.0 e 150, respectivamente, pois após a execução da função `precoFinal` o valor da variável `preco` foi alterado.
+
+Também podemos passar um vetor ou matriz como parâmetro de uma função. O detalhe é que esse valor será passado, no caso do Portugol Stuio, sempre por *referência*, e não precisamos utilizar o *&* para simbolizar.
+{% highlight portugol %}
+programa
+{
+
+	funcao vazio incrementarIdade(inteiro idades[])
+	{
+		para (inteiro i = 0; i < 5; i++){
+			idades[i] = idades[i] + 1
+		}
+	}
+	
+	funcao inicio()
+	{
+		inteiro idades[5] = {10, 12, 10, 11, 9}
+		escreva("Imprimindo os valores do vetor:\n")
+		para (inteiro i = 0; i < 5; i++){
+			escreva(idades[i] + "\n")
+		}
+
+		// Utilizando a função incrementarIdade para alterar, por referência os valores do vetor
+		incrementarIdade(idades)
+		escreva("Imprimindo os novos valores do vetor:\n")
+		para (inteiro i = 0; i < 5; i++){
+			escreva(idades[i] + "\n")
+		}
+	}
+}
+{% endhighlight %}
