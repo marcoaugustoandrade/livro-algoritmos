@@ -1,4 +1,3 @@
-<script>hljs.initHighlightingOnLoad();</script>
 # Funções
 A medida que desenvolvemos nossos algoritmos fica evidente que o código cresce, com dezenas ou centenas de linhas de código, e entender ou modificá-lo fica cada vez mais difícil.
 
@@ -166,3 +165,6 @@ programa
 	}
 }
 </code></pre>
+
+<script src="assets/js/script.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
