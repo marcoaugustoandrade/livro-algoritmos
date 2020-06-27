@@ -85,3 +85,4 @@ A codição de parada desse algoritmo é **enquanto forem informados números pa
 Em breve.
 
 <script src="assets/js/script.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
