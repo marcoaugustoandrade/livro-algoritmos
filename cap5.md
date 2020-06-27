@@ -165,6 +165,3 @@ programa
 	}
 }
 {% endhighlight %}
-
-<script src="assets/js/script.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>

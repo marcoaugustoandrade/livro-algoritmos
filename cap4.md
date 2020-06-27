@@ -203,6 +203,3 @@ para (inteiro i = 0; i < 2; i++){
     }
 }
 {% endhighlight %}
-
-<script src="assets/js/script.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>

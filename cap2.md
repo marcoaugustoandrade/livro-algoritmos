@@ -451,6 +451,3 @@ escolha (nota){
 }
 escreva("O aluno é conceito " + conceito)
 {% endhighlight %}
-
-<script src="assets/js/script.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
