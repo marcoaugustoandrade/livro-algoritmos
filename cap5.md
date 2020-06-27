@@ -13,13 +13,13 @@ programa
 	funcao real calcularDescontoPrevidencia(real salario)
 	{
 		real desconto = (salario / 100) * 11
-        retorne desconto
+		retorne desconto
 	}
 
     funcao inicio(){
-        real salario = 1800.00
-        real descontoPrevidencia = calcularDescontoPrevidencia(salario)
-        escreva("Com um salário de " + salario + ", haverá um desconto de " + descontoPrevidencia)
+		real salario = 1800.00
+		real descontoPrevidencia = calcularDescontoPrevidencia(salario)
+		escreva("Com um salário de " + salario + ", haverá um desconto de " + descontoPrevidencia)
     }
 }
 {% endhighlight %}
@@ -37,20 +37,20 @@ programa
 	
 	funcao real calcularDescontoPrevidencia(real salario, inteiro dependentes)
 	{
-        real desconto = 0.00
-        se (dependentes < 2){
-		    desconto = (salario / 100) * 11
-        } senao {
-            desconto = (salario / 100) * 10
-        }
-        retorne desconto
+		real desconto = 0.00
+		se (dependentes < 2){
+			desconto = (salario / 100) * 11
+		} senao {
+			desconto = (salario / 100) * 10
+		}
+		retorne desconto
 	}
 
     funcao inicio(){
-        real salario = 1800.00
-        inteiro dependentes = 2
-        real descontoPrevidencia = calcularDescontoPrevidencia(salario, dependentes)
-        escreva("Com um salário de " + salario + ", haverá um desconto de " + descontoPrevidencia)
+		real salario = 1800.00
+		inteiro dependentes = 2
+		real descontoPrevidencia = calcularDescontoPrevidencia(salario, dependentes)
+		escreva("Com um salário de " + salario + ", haverá um desconto de " + descontoPrevidencia)
     }
 }
 {% endhighlight %}
@@ -87,15 +87,15 @@ programa
 	funcao real precoFinal(real preco)
 	{
 		preco = preco * 1.5
-        retorne preco
+		retorne preco
 	}
 	
 	funcao inicio()
 	{
 		real preco = 100.0
-        escreva("Preço do produto: " + preco)
-        escreva("Preço final do produto: " + precoFinal(preco))
-        escreva("Preço do produto: " + preco)
+		escreva("Preço do produto: " + preco)
+		escreva("Preço final do produto: " + precoFinal(preco))
+		escreva("Preço do produto: " + preco)
 	}
 }
 {% endhighlight %}
@@ -121,15 +121,15 @@ programa
 	funcao real precoFinal(real &preco)
 	{
 		preco = preco * 1.5
-        retorne preco
+		retorne preco
 	}
 	
 	funcao inicio()
 	{
 		real preco = 100.0
-        escreva("Preço do produto: " + preco)
-        escreva("Preço final do produto: " + precoFinal(preco))
-        escreva("Preço do produto: " + preco)
+		escreva("Preço do produto: " + preco)
+		escreva("Preço final do produto: " + precoFinal(preco))
+		escreva("Preço do produto: " + preco)
 	}
 }
 {% endhighlight %}
