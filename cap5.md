@@ -137,7 +137,7 @@ programa
 Qual serão os valores impressos? 100.0, 150.0 e 150, respectivamente, pois após a execução da função `precoFinal` o valor da variável `preco` foi alterado.
 
 Também podemos passar um vetor ou matriz como parâmetro de uma função. O detalhe é que esse valor será passado, no caso do Portugol Stuio, sempre por *referência*, e não precisamos utilizar o *&* para simbolizar.
-<pre><code class="hljs portugol">
+{% highlight portugol %}
 programa
 {
 
@@ -164,7 +164,7 @@ programa
 		}
 	}
 }
-</code></pre>
+{% endhighlight %}
 
 <script src="assets/js/script.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
