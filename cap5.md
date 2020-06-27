@@ -16,7 +16,7 @@ programa
 		retorne desconto
 	}
 
-    funcao inicio(){
+	funcao inicio(){
 		real salario = 1800.00
 		real descontoPrevidencia = calcularDescontoPrevidencia(salario)
 		escreva("Com um salário de " + salario + ", haverá um desconto de " + descontoPrevidencia)
@@ -46,12 +46,12 @@ programa
 		retorne desconto
 	}
 
-    funcao inicio(){
+	funcao inicio(){
 		real salario = 1800.00
 		inteiro dependentes = 2
 		real descontoPrevidencia = calcularDescontoPrevidencia(salario, dependentes)
 		escreva("Com um salário de " + salario + ", haverá um desconto de " + descontoPrevidencia)
-    }
+	}
 }
 {% endhighlight %}
 
