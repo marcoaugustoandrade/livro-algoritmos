@@ -1,4 +1,4 @@
-# Arranjos
+# Capítulo 4 - Arranjos
 Pense em um cadastro de alunos de uma escola, no qual você precisa informar nome, sexo, endereço, telefone e idade. A princípio o código a seguir seria suficiente para armazenar dados de um aluno:
 {% highlight portugol %}
 cadeia nome

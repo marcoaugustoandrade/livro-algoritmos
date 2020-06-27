@@ -1,4 +1,4 @@
-# Funções
+# Capítulo 5 - Funções
 A medida que desenvolvemos nossos algoritmos fica evidente que o código cresce, com dezenas ou centenas de linhas de código, e entender ou modificá-lo fica cada vez mais difícil.
 
 Outra situação é que começamos a repetir muito código. Imagine que você queira realizar uma verificação se um determinado CPF é válido ou inválido. O código para realizar essa verificação pode ser um tanto complexo ou até mesmo grande. Assim, utilizar o recurso `copiar` e `colar` sempre que precisar realizar tal verificação talvez não seja uma boa opção.
