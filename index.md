@@ -11,8 +11,7 @@ Algoritmos e Lógica de Programação é um livro voltado para estudantes que es
 * [Capítulo 2 - Tomando decisões](cap2.html)
 * [Capítulo 3 - Laços de repetição](cap3.html)
 * [Capítulo 4 - Arranjos](cap4.html)
-* [Capítulo 5 - Funções](cap5.html) <span class="badge badge-warning">Novo</span>
-* Capítulo 6 - Recursividade <span class="badge badge-info">Em breve</span>
+* [Capítulo 5 - Funções](cap5.html)
 
 ## Material complementar
 Lista de execícios: 
@@ -21,10 +20,6 @@ Lista de execícios:
 * [Cap. 3](cap3-exercicios.html)
 * [Cap. 4](cap4-exercicios.html)
 * [Cap. 5](cap5-exercicios.html)
-* Cap. 6 <span class="badge badge-info">Em breve</span>
-
-Slides: <span class="badge badge-info">Em breve</span>  
-Cap. 1 Cap. 2 Cap. 3 Cap. 4 Cap. 5 Cap. 6
 
 ## Licença de uso
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="assets/images/cc.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional</a>.
