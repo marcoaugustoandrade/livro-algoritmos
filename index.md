@@ -34,12 +34,12 @@ Cap. 1 Cap. 2 Cap. 3 Cap. 4 Cap. 5 Cap. 6
 * O livro será publicado em versão e-book ou em papel? Provavelmente. Mas sempre manteremos aqui a última versão, com o mesmo conteúdo.
 
 ## Cite o livro
-ANDRADE, Marco A. A. Introdução a Algoritmos com Portugol Studio. 2020.  
+ANDRADE, Marco A. A. Algoritmos e Lógica de Programação. 2020.  
 {% highlight bash %}
 @book{Andrade2020,
 author = "Andrade, Marco A. A.",
-isbn = "000000000000000",
-title = "Introdução a Algoritmos com Portugol Studio",
+isbn = "978-65-00-26272-8",
+title = "Algoritmos e Lógica de Programação",
 year = "2020"
 }
 {% endhighlight %}
